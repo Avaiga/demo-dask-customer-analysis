@@ -1,4 +1,4 @@
-# demo_dask_customer_analysis
+# demo-dask-customer-analysis
 
 ##demo description
 This article focuses on the seamless integration of Dask (for handling out-of-core data) with Taipy, a Python library used for pipeline orchestration and scenario management.
